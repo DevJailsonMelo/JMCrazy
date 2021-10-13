@@ -1,4 +1,4 @@
-### Hi there, I'm [Jailson!](#)
+### Hi there, I'm [Jailson!](https://www.linkedin.com/in/jailsonmelodev)
 
 - I’m currently learning JavaScript
 
