@@ -1,4 +1,4 @@
-### Hi there, I'm [Jailson!](https://www.linkedin.com/in/jailsonmelodev)
+### Hi there, I'm <a href="https://www.linkedin.com/in/jailsonmelodev" target="_blank">Jailson!</a>
 
 - I’m currently learning JavaScript
 
