@@ -1,16 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jailson Melo!
 
-- I’m currently learning Python
-
 <a href="https://github.com/jailsonmelodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JailsonMeloDev&show_icons=true&title_color=DAD7CD&text_color=DAD7CD88&icon_color=1B2432&border_color=1B2432&bg_color=121420&border_radius=12" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jailsonmelodev&theme=dark&background=000000)](https://github.com/jailsonmelodev)
 
-
-## Ferramentas e Tecnologias
+## Tools and technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40" />
 
